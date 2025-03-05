@@ -4,4 +4,34 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+    margin: 0px;
+}
+
+#header {
+
+  background-color: #474b4a; 
+  color: #ffffff;
+  height:60px
+}
+
+.nav > a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#hero {
+    font-size: 22px ;
+    
+
+
+}
+
+#hero > h1 {
+    font-size: 80px;
+}
+
+#cda {
+    background-color: #a5cfce;
+    color: #ffffff;
+    text-decoration: none;
 }
